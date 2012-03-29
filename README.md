@@ -1,4 +1,8 @@
-Sorry for not having much documentation. This uses a jquery slide framework. You can see my demo slides in index.html and add some more. It's fairly easy to embed HTML content in the slides, for example I've embedded, resized, and positioned a Flickr slideshow object.
+# Colgate TouchScreen TouchSite v.01
+
+Sorry for not having much documentation right now. This uses the slide framework Royal Slider. The framework documentation is included in /documentation, and the site code is in /site. You can see my slides in index.html and add some more. The other HTML files are demos from the framework.
+
+It's fairly easy to embed HTML content in the slides, for example I've embedded, resized, and positioned a Flickr slideshow object.
 
 A google maps slide is definitely something I want to look into.
 
